@@ -1,0 +1,68 @@
+
+
+body{
+background-size: cover;
+  background-image: url(background.jpg);
+
+}
+
+.container{
+  width:70%;
+  height: 99vh;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  background-color:rgba(0,0,0,0.6);
+
+}
+.title img{
+  margin-left:calc(60% - 200px);
+  height:15vh;
+  width:200px;
+  position:relative;
+  text-align: center;
+  margin-left:;
+  margin-top: 10vh;
+}
+.title h3{font-size: 30px;
+  text-align:center;
+  color:lime;
+}
+  #menu{
+    background:lime;
+    width:80%;
+    height:40px;
+    text-align:center;
+    margin:20px;
+    margin-left:10%;
+  }
+  .opzioni{
+    margin:10px ;}
+  .statocarica{
+    height:25px;
+    width:80%;
+  }
+  p{margin:1px;
+  font-size: 15px;
+  font-style:oblique;
+   color:white;}
+  .nomimonopattini{
+  display: inline-block;
+  }
+h3{
+  margin:3px;
+  color:white;
+}
+.Monopattini{
+  margin-left:10%;
+}
+#pieno{
+  background:green;
+}
+#scarico{
+  width:15%;
+  background-color:crimson;
+}
+#metà{width:40%;
+background:orange;}
